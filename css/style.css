@@ -115,7 +115,7 @@ main{
 }
 
 .headpic-1{
-    background-image: url(/img/projectheader-360px.jpg);
+    background-image: url(img/projectheader-360px.jpg);
     background-position: center;
     background-repeat: no-repeat;
     grid-column: 1/2;
@@ -124,7 +124,7 @@ main{
     height: 250px;
 }
 .headpic-2{
-    background-image: url(/img/projectheader-360px.jpg);
+    background-image: url(img/projectheader-360px.jpg);
     background-position: center;
     background-repeat: no-repeat;
     grid-column: 1/2;
@@ -133,7 +133,7 @@ main{
     height: 250px;                 
 }
 .headpic-3{
-    background-image: url(/img/projectheader-360px.jpg);
+    background-image: url(img/projectheader-360px.jpg);
     background-position: center;
     background-repeat: no-repeat;
     grid-column: 1/2;
