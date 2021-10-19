@@ -361,11 +361,11 @@ footer{
         display:none;
     }
     .headpic-1{
-        background-image: url(/img/projectheader-810px.jpg); 
+        background-image: url(img/projectheader-810px.jpg); 
         width: 810px;                   
     }
     .headpic-2{
-        background-image: url(/img/projectheader-810px-2.jpg); 
+        background-image: url(img/projectheader-810px-2.jpg); 
         width: 810px;                   
     }
     .headpic-3{
