@@ -115,7 +115,7 @@ main{
 }
 
 .headpic-1{
-    background-image: url(img/projectheader-360px.jpg);
+    background-image: url(../img/projectheader-360px.jpg);
     background-position: center;
     background-repeat: no-repeat;
     grid-column: 1/2;
@@ -124,7 +124,7 @@ main{
     height: 250px;
 }
 .headpic-2{
-    background-image: url(img/projectheader-360px.jpg);
+    background-image: url(../img/projectheader-360px.jpg);
     background-position: center;
     background-repeat: no-repeat;
     grid-column: 1/2;
@@ -133,7 +133,7 @@ main{
     height: 250px;                 
 }
 .headpic-3{
-    background-image: url(img/projectheader-360px.jpg);
+    background-image: url(../img/projectheader-360px.jpg);
     background-position: center;
     background-repeat: no-repeat;
     grid-column: 1/2;
@@ -142,7 +142,7 @@ main{
     height: 250px;                 
 }
 .headpic-4{
-    background-image: url(img/projectheader-360px.jpg);
+    background-image: url(../img/projectheader-360px.jpg);
     background-position: center;
     background-repeat: no-repeat;
     grid-column: 1/2;
@@ -151,7 +151,7 @@ main{
     height: 250px;                 
 }
 .headpic-5{
-    background-image: url(img/projectheader-360px.jpg);
+    background-image: url(../img/projectheader-360px.jpg);
     background-position: center;
     background-repeat: no-repeat;
     grid-column: 1/2;
@@ -361,27 +361,27 @@ footer{
         display:none;
     }
     .headpic-1{
-        background-image: url(img/projectheader-810px.jpg); 
+        background-image: url(../img/projectheader-810px.jpg); 
         width: 810px;                   
     }
     .headpic-2{
-        background-image: url(img/projectheader-810px-2.jpg); 
+        background-image: url(../img/projectheader-810px-2.jpg); 
         width: 810px;                   
     }
     .headpic-3{
-        background-image: url(img/projectheader-810px-3.jpg); 
+        background-image: url(../img/projectheader-810px-3.jpg); 
         width: 810px;                   
     }
     .headpic-4{
-        background-image: url(img/projectheader-810px-4.jpg); 
+        background-image: url(../img/projectheader-810px-4.jpg); 
         width: 810px;                   
     }
     .headpic-5{
-        background-image: url(img/projectheader-810px-5.jpg); 
+        background-image: url(../img/projectheader-810px-5.jpg); 
         width: 810px;                   
     }
     .mainflex a{
-        background-image: url(img/projectthumbnail.jpg);
+        background-image: url(../img/projectthumbnail.jpg);
         flex-basis: 300px;
         height: 200px;    
         margin: 0.5em auto;
